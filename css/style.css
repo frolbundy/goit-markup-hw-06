@@ -995,4 +995,3 @@ button {
 .form-button:is(:hover, :focus) {
   background-color: var(--accent-baccolor-btn);
 }
-
